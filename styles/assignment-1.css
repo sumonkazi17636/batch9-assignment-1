@@ -1,0 +1,149 @@
+/* banner image related style */
+/*.main-banner-image{
+   
+}
+.banner-image{
+    background: #FFF;
+    
+}
+
+.container {
+    position: relative;
+    max-width: 100%;
+    font-family: 'Merriweather', serif;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+  }
+  
+  .text-overlay h1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+  
+  .text-overlay p {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    
+  }
+  */
+
+  /* offer related styles */
+
+  /*.offer{
+    font-family: 'Inter Tight', sans-serif;
+  }
+
+ .offer h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+  }
+
+  .offer p{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+
+  }
+
+  .categories h1{
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+  }
+
+  .new-year-photo{
+    fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    text-align: center;
+  }*/
+  
+
+  /* main section styles */
+  header{
+    font-family: 'Merriweather', serif;
+    background-color: white;
+  }
+  .banner-image{
+    position: relative;
+  }
+  .banner-image img{
+    max-width: 100%;
+      height: auto;
+  }
+
+  .banner-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    border-radius: 15px;
+  }
+
+  .banner-text h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+  }
+  .banner-text p{
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+  
+  }
+
+  /* main section styles related */
+  .section-primary{
+    font-family: 'Inter Tight', sans-serif;
+    margin-right: 300px;
+    margin-left: 300px;
+
+  }
+
+  /* offer-area styles */
+
+  .offer h1{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+  }
+
+  .offer .holidays{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 45px;
+  }
+
+  .offer #categories{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 45px;
+  }
+
+  
+  
